@@ -17,4 +17,4 @@ const your_website_url2 = 'https://findmyverto.onrender.com/';
 setInterval(() => {
     http.get(your_website_url);
     http.get(your_website_url2);
-}, 600000); // 600000 ms is 10 minutes
+},400000); // 400000 ms is 4 minutes
